@@ -1,2 +1,2 @@
 ﻿# Pico-discord-bot
-Un botb discord pour tous
+Un bot discord pour tous
